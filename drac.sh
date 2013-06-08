@@ -6,7 +6,6 @@
 #  3. Taq quote   : /home/controltier/scripts/dvis/taq_automation.sh
 
 
-
 Project=DVSystemOperation
 DispatchNode=172.16.30.45
 
